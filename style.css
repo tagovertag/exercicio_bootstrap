@@ -1,0 +1,12 @@
+body {
+    padding-top: 150px;
+    background: #cbd9ea;
+}
+
+.container {
+    margin-left: 30%;
+}
+
+form, .alert {
+    margin-bottom: 0;
+}
